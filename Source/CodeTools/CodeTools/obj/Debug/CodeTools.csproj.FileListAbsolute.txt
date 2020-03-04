@@ -1,0 +1,9 @@
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\bin\Debug\CodeTools.exe
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\bin\Debug\CodeTools.pdb
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.csprojAssemblyReference.cache
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.FindFiles.resources
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.Properties.Resources.resources
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.csproj.GenerateResource.cache
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.exe
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.pdb
+D:\Work\GitHub\CodeTools\Source\CodeTools\CodeTools\obj\Debug\CodeTools.MailForm.resources
